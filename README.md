@@ -48,20 +48,13 @@ Soy desarrollador con experiencia en **aplicaciones web full‑stack** y backend
 
 ---
 
-# 🧭 Cómo organizo mis repos
-
-1. `proyectos/` – Repos clones y apps completas con Docker
-2. `libs/` – Utilidades y helpers reutilizables
-3. `scripts/` – Scripts de CI, despliegue y mantenimiento
-
----
-
 # ✅ Buenas prácticas que verás aquí
 
 * README completo con screenshots y cómo ejecutar
 * Branching `feature/*`, `develop`, `main` con PRs y pipelines
 * Tests unitarios e integrados (ej. Jest, PyTest, xUnit)
-* Linting y formateo (ESLint, Prettier, dotnet format)
+* Código limpio, tipado, explicado y siguiendo principios SOLID.
+* Commits claros y explicativos
 
 ---
 
