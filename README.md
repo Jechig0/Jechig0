@@ -10,7 +10,7 @@ Soy desarrollador con experiencia en **aplicaciones web full‑stack** y backend
 
 * 🔭 Actualmente: trabajando en proyectos personales y mejorando microservicios y pipelines de CI.
 * 🌱 Aprendiendo: mejoras en arquitectura hexagonal y diseño de APIs REST/GraphQL.
-* ⚙️ Stack favorito: **Angular, Node.js, PostgreSQL / MongoDB, Docker, GitHub Actions**.
+* ⚙️ Stack favorito: **Angular, Node.js, PostgreSQL / MongoDB, Docker**.
 
 ---
 
@@ -36,8 +36,6 @@ Soy desarrollador con experiencia en **aplicaciones web full‑stack** y backend
 * **Stack:** Angular / React, Charting (recharts / Chart.js)
 * **Descripción:** Dashboard con widgets, export a CSV, filtros y caching.
 
-> *Si quieres, puedo generar los `README.md` individuales para cada proyecto con plantillas reproducibles.*
-
 ---
 
 # 🛠 Tecnologías
@@ -47,17 +45,6 @@ Soy desarrollador con experiencia en **aplicaciones web full‑stack** y backend
 * **Bases de datos:** Oracle, MySQL, MongoDB, PostgreSQL
 * **DevOps / Infra:** Docker, GitHub Actions, CI/CD
 * **Herramientas:** Postman, Swagger/OpenAPI, Git, VSCode
-
----
-
-# 📈 Stats & Badges (ejemplos)
-
-Puedes agregar estas tarjetas dinámicas en tu README:
-
-* `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jechig0)`
-* `![Stats](https://github-readme-stats.vercel.app/api?username=Jechig0&show_icons=true)`
-
-También añade badges de tus principales stacks usando `shields.io`.
 
 ---
 
@@ -80,9 +67,9 @@ También añade badges de tus principales stacks usando `shields.io`.
 
 # 📫 Contacto
 
-* **Email:** `tu.email@ejemplo.com` (reemplaza por tu email)
-* **LinkedIn:** `https://www.linkedin.com/in/tu-perfil`
-* **Portfolio:** `https://tu-portfolio.example.com`
+* **Email:** `chincoagonzalezjesus@gmail.com`
+* **LinkedIn:** `https://www.linkedin.com/in/jes%C3%BAs-chincoa-gonz%C3%A1lez-b40952360/`
+* **Portfolio:** `WIP`
 
 ---
 
@@ -91,15 +78,5 @@ También añade badges de tus principales stacks usando `shields.io`.
 Posiciones en backend / full‑stack donde pueda aportar experiencia en sistemas distribuidos, diseño de APIs y buenas prácticas de ingeniería.
 
 ---
-
-## ⚙️ Sugerencias de contenido adicional para tu perfil
-
-* PDF del CV disponible en el repo
-* Sección "Proyectos en producción" con métricas (usuarios, endpoints, uptime)
-* Repos con issues abiertas para mostrar cómo recibes PRs/contribuciones
-
----
-
-> Si quieres, puedo: generar una versión final lista para pegar en tu perfil, añadir los badges con tus URLs reales o crear automáticamente los READMEs para cada repositorio que me indiques.
 
 *Última actualización: 2025.*
