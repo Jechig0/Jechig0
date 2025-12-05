@@ -54,7 +54,7 @@ Soy desarrollador con experiencia en **aplicaciones web full‑stack** y backend
 * Branching `feature/*`, `develop`, `main` con PRs y pipelines
 * Tests unitarios e integrados (ej. Jest, PyTest, xUnit)
 * Código limpio, tipado, explicado y siguiendo principios SOLID.
-* Commits claros y explicativos
+* Commits claros y detallados sobre las modificaciones realizadas
 
 ---
 
