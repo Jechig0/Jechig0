@@ -16,25 +16,20 @@ Soy desarrollador con experiencia en **aplicaciones web full‑stack** y backend
 
 # 📂 Proyectos destacados
 
-> Los repos a continuación tienen README completos, demo y scripts de arranque.
-
 ### 1. **Gestor Académico (Full‑stack)**
 
 * **Stack:** Angular + FastAPI/Node.js, PostgreSQL/MongoDB, Docker
 * **Descripción:** Aplicación para subir/extraer expedientes (PDF), procesar asignaturas y notas, y mostrar un dashboard para el alumnado.
-* **Demo / Capturas:** GIF o enlace a demo hospedada
-* **Cómo ejecutar:** `docker compose up --build`
 
-### 2. **API de Autenticación y Roles**
+### 2. **Next Films**
 
-* **Stack:** Node.js (Express) / Java (Spring Boot) / .NET (opcional), JWT, Postgres
-* **Descripción:** Microservicio con autenticación, autorización por roles, refresh tokens y tests.
-* **CI:** GitHub Actions con tests y lint
+* **Stack:** TypeScript (Angular),  Node.js (Express), JWT, MongoDB
+* **Descripción:** Aplicación web con identificación y roles para control de stock de productos (películas).
 
-### 3. **Clon UI — Dashboard Analíticas**
+### 3. **Next Tasks**
 
-* **Stack:** Angular / React, Charting (recharts / Chart.js)
-* **Descripción:** Dashboard con widgets, export a CSV, filtros y caching.
+* **Stack:** TypeScript (React), / Java (Spring Boot) Charting (recharts / Chart.js)
+* **Descripción:** Aplicación con microservicios (Module Federations) para la gestión de tareas.
 
 ---
 
